@@ -21,12 +21,12 @@ mavenPublishing {
             developer(id = "coolest id", name = "the best name", email = "awesome email")
         }
 
-        setGitHubProject("RedMadRobot/Stub")
+        setGitHubProject("RedMadRobot/From-template")
     }
 }
 
 publishing {
     repositories {
-        if (isRunningOnCi) githubPackages("RedMadRobot/Stub")
+        if (isRunningOnCi) githubPackages("RedMadRobot/From-template")
     }
 }

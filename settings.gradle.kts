@@ -20,8 +20,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "stub-root"
+rootProject.name = "fromtemplate-root"
 
 include(
-    "stub",
+    "fromtemplate",
 )

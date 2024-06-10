@@ -1,8 +1,8 @@
-# Stub
+# From-template
 
 [![License](https://img.shields.io/github/license/RedMadRobot/android-library-template?style=flat-square)][license]
 
-Stub and no more spoilers.
+From-template and no more spoilers.
 
 ---
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.redmadrobot.stub:stub:<version>")
+    implementation("com.redmadrobot.fromtemplate:fromtemplate:<version>")
 }
 ```
 

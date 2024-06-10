@@ -1,5 +1,5 @@
 ## [Unreleased]
 
-### Stub
+### From-template
 
 - *No changes*

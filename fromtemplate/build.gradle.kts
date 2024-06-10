@@ -4,7 +4,7 @@ plugins {
     convention.detekt
 }
 
-description = "stub"
+description = "fromtemplate"
 
 dependencies {
     api(kotlin("stdlib"))
